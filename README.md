@@ -4,10 +4,10 @@ _For [Eleven Fifty Academy's](https://elevenfifty.org/) Red Badge Course._
 
 _This challenge must use **Typescript.**_
 
--Create a class component and a functional component
--Class component should reach [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) and get user's coordinates.
--Class component should then reach [Open Weather API](https://openweathermap.org/) and return local weather based on coordinates.
--Once weather is returned, pass to functional component for display.
+*Create a class component and a functional component
+*Class component should reach [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) and get user's coordinates.
+*Class component should then reach [Open Weather API](https://openweathermap.org/) and return local weather based on coordinates.
+*Once weather is returned, pass to functional component for display.
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
